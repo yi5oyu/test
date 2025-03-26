@@ -1,21 +1,13 @@
 ---
-# yaml 헤더 필드
-
-# 템플릿 이름
 name: 🐛 버그 리포트
-# 이슈 제목 기본값
 about: 버그를 보고할 때 사용하는 템플릿
-# 이슈 제목(기본값)
 title: "[BUG] "
-# 라벨
 labels: bug, urgent
-# 이슈 담당자
 assignees: user1, user2
-# 연결할 마일스톤 ID (Issues > Milestones에서 마일스톤 ID 확인 가능)
 milestone: 1
 ---
 
-# 🐞 문제 설명
+## 🐞 문제 설명
 <!-- 버그에 대한 간결한 설명해주세요. -->
 
 ## 📝 발생 상황
