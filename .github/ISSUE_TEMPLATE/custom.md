@@ -2,13 +2,13 @@
 # yaml 헤더 필드
 
 # 템플릿 이름
-name: ''
+name: '이슈 템플릿'
 # 이슈 제목 기본값
-about: ''
+about: '이슈 템플릿 설명'
 # 이슈 제목(기본값)
 title: '[이슈 유형] '
 # 라벨
-labels: ''
+labels: 'custom'
 # 이슈 담당자
 assignees: ''
 # 연결할 마일스톤 ID (Issues > Milestones에서 마일스톤 ID 확인 가능)
