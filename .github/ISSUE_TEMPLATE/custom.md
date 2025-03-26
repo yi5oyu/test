@@ -1,9 +1,18 @@
 ---
-name: 커스텀 이슈 템플릿
-about: 이 프로젝트를 위한 커스텀 이슈 템플릿입니다.
+# yaml 헤더 필드
+
+# 템플릿 이름
+name: ''
+# 이슈 제목 기본값
+about: ''
+# 이슈 제목(기본값)
 title: '[이슈 유형] '
-labels: 'custom'
+# 라벨
+labels: ''
+# 이슈 담당자
 assignees: ''
+# 연결할 마일스톤 ID (Issues > Milestones에서 마일스톤 ID 확인 가능)
+milestone: ''
 ---
 
 ## 📌 이슈 설명
