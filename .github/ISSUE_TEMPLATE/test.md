@@ -1,3 +1,12 @@
+---
+name: 🐛 버그 리포트
+about: 버그를 보고할 때 사용하는 템플릿
+title: "[BUG] "
+labels: bug, urgent
+assignees: octocat, user2
+milestone: 1  # 미리 생성된 마일스톤 ID 입력
+---
+
 <!--
   yaml 헤더 필드
   
@@ -8,14 +17,6 @@
   assignees	이슈 담당자
   milestone	연결할 마일스톤 ID (Issues > Milestones에서 마일스톤 ID 확인 가능)
 -->
----
-name: 🐛 버그 리포트
-about: 버그를 보고할 때 사용하는 템플릿
-title: "[BUG] "
-labels: bug, urgent
-assignees: octocat, user2
-milestone: 1  # 미리 생성된 마일스톤 ID 입력
----
 
 ### 필수 정보
 - **버전**: [예: v2.1.0]
