@@ -1,5 +1,5 @@
 ---
-name: 📖 문서
+name: 📄 문서
 about: 프로젝트 문서화 작업을 위한 이슈 템플릿입니다.
 title: "[DOCS] "
 labels: documentation
